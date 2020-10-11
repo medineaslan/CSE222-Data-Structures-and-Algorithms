@@ -1,2 +1,2 @@
 
-Includes Part1 and Part2 of HW3.
+Includes Q1 and Q2 of HW3.
